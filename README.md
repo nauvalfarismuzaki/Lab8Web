@@ -11,3 +11,10 @@ Tugas pertemuan 10
 Untuk langkah awal pada tugas kali ini saya akan membuat tabel terlebih dahulu, Berikut contohnya.
 
 ![tabel](pictures/gambar1.jpg)
+<br>
+
+2. **Menambahkan Data** <br>
+selanjutnya saya akan membuat data 
+
+![data](pictures/gambar2.jpg)
+<br>
