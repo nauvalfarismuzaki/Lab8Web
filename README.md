@@ -17,4 +17,4 @@ Untuk langkah awal pada tugas kali ini saya akan membuat tabel terlebih dahulu, 
 selanjutnya saya akan membuat data 
 
 ![data](pictures/gambar2.jpg)
-<br>
+<br> 
