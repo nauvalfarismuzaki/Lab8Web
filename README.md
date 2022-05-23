@@ -18,3 +18,8 @@ selanjutnya saya akan membuat data
 
 ![data](pictures/gambar2.jpg)
 <br> 
+
+3. **Membuat File index**
+Membuat file index untuk menampilkan file baru, Berikut contohnya.
+
+![index](pictures/gambar3.jpg)
