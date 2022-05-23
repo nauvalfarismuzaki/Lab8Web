@@ -10,4 +10,4 @@ Tugas pertemuan 10
 1. **Membuat Tabel** <br>
 Untuk langkah awal pada tugas kali ini saya akan membuat tabel terlebih dahulu, Berikut contohnya.
 
-! [tabel](pictures/gambar1.jpg)
+![tabel](pictures/gambar1.jpg)
